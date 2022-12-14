@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background: #f2f2f2;
+}
+header{
+
+    color: #C064A5;
+    text-align: center;
+    font-size:25px;
+    margin: 15px 0px 0px 303px ;
+
+}
+h2{
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+    
+}
+p{
+    font-size: 18px;
+}
+.secizq{
+float: left;
+width: 31%;
+margin: 80px 0px;
+text-align: justify;
+font-size: 15px;
+border: #ffff 5px  solid ;
+background:#ffff;
+padding: 30px 50px 50px 50px;
+box-shadow: 10px  rgba(1,1,1,1);
+}
+.txt1{
+    margin: 15px;
+}
+.secmed{
+    float: left;
+    width: 31%;
+    margin: -410px 0px 0px 447px;
+    text-align: justify; 
+    border: #ffff 1px  solid;
+    background: #ffff;
+    padding: 30px 30px 50px 30px;
+    font-size: 19px;
+
+}
+.secdere{
+    float: right;
+    width: 31%;
+    margin: -815px -235px 0px 0px;
+    text-align: justify; 
+    border: #ffff 1px  solid;
+    background: #ffff;
+    padding: 30px 30px 100px 50px;
+}
+.clear{
+    clear: both;
+}
+footer{
+    text-align: center;
+    color: #C064A5;
+}
+hr{
+    width: 125%;
+    background:  #C064A5;
+}
